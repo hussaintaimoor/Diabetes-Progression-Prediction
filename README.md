@@ -30,3 +30,10 @@ diabetes-progression-prediction/
 - Compare against Lasso, ElasticNet, and Gradient Boosting Regressors
 - Feature importance / coefficient analysis
 - Cross-validation for more robust performance estimates
+
+📬 Connect with Me
+GitHub: hussaintaimoor
+
+LinkedIn: (https://www.linkedin.com/in/taimoor-hussain-421982403)
+
+Email: taimooranjum800@gmail.com
